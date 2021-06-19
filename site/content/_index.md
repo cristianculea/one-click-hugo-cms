@@ -1,6 +1,6 @@
 ---
-title: Websperience
-subtitle: Support sustainable farming while enjoying a cup
+title: Agrivoltaics
+subtitle: Support sustainable farming while enjoying solar energy
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
